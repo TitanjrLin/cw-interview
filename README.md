@@ -1,8 +1,21 @@
-# React + Vite
+## Available Scripts
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### `npm run dev`
+Locally runs the app in the development mode.
 
-Currently, two official plugins are available:
+### `npm run build`
+Builds the app for production to the `dist` folder.<br />
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Learn More
+
+### * Vite
+Frontend Tooling <br/>
+This section has moved here: https://vitejs.dev/
+
+### * Atomic Design
+Methodology for creating design systems <br/>
+This section has moved here: https://atomicdesign.bradfrost.com/chapter-2/
+
+### * Lodash
+A modern JavaScript utility library <br/>
+This section has moved here: https://lodash.com/
