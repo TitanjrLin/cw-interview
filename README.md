@@ -1,5 +1,5 @@
 ## Github Pages
-https://github.com/TitanjrLin/cw-interview
+https://titanjrlin.github.io/cw-interview/
 
 ## Available Scripts
 
