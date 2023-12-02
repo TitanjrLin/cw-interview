@@ -1,3 +1,6 @@
+## Github Pages
+https://github.com/TitanjrLin/cw-interview
+
 ## Available Scripts
 
 ### `npm run dev`
