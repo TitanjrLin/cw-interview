@@ -1,0 +1,42 @@
+
+@font-face {
+  font-family: 'LongTermCare';
+  src:  url('@/assets/fonts/LongTermCare/LongTermCare.eot?r29sed');
+  src:  url('@/assets/fonts/LongTermCare/LongTermCare.eot?r29sed#iefix') format('embedded-opentype'),
+    url('@/assets/fonts/LongTermCare/LongTermCare.ttf?r29sed') format('truetype'),
+    url('@/assets/fonts/LongTermCare/LongTermCare.woff?r29sed') format('woff'),
+    url('@/assets/fonts/LongTermCare/LongTermCare.svg?r29sed#LongTermCare') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+i.ltcif {
+  font-family: 'LongTermCare';
+  display: inline-block;
+  letter-spacing: normal;
+  word-wrap: normal;
+  white-space: nowrap;
+  direction: ltr;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.ltcif-number-3:before {
+  content: "\e901";
+}
+.ltcif-number-2:before {
+  content: "\e902";
+}
+.ltcif-number-1:before {
+  content: "\e903";
+}
+.ltcif-close:before {
+  content: "\e900";
+}
