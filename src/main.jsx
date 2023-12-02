@@ -13,7 +13,7 @@ const template = (
   <React.StrictMode>
     <Provider store={store}>
       <RWDStyle />
-      <BrowserRouter>
+      <BrowserRouter basename="/cw-interview">
         <App />
       </BrowserRouter>
     </Provider>
